@@ -1,0 +1,32 @@
+{
+  "name": "projects-manager",
+  "version": "0.0.0",
+  "description": "Модуль управления проектами.",
+  "contributors": [
+    {
+      "name": "Aleksandr Balyunov",
+      "email": "albalyu@gmail.com"
+    }
+  ],
+  "main": "src/projects-manager.js",
+  "homepage": "http://github.com/albalyu/projects-manager",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/albalyu/projects-manager.git"
+  },
+  "bugs": {
+    "url": "http://github.com/albalyu/projects-manager/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/albalyu/projects-manager/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "Модуль управления проектами."
+  ],
+  "dependencies": {
+    "ssh2": "^0.4.0"
+  }
+}
